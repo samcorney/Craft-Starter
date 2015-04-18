@@ -13,8 +13,13 @@
 ## Pack includes
 
 1) Basic folder structure
+
 2) Bootstrap
-3) Jquery
-4) Jquery UI
+
+3) Jquery (google cdn only)
+
+4) Jquery UI (google cdn only)
+
 5) Very basic template
+
 6) SCSS ready
