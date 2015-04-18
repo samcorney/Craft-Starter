@@ -1,6 +1,6 @@
-Craft starter pack
+# Craft starter pack
 
----To get started---
+## To get started
 
 1) Download the latest version of Craft from http://buildwithcraft.com, and copy its craft/app/ folder into the craft/ folder.
 
@@ -8,9 +8,9 @@ Craft starter pack
 
 3) Fill in the correct MySQL credentials in craft/config/db.php.
 
-Note: You might need to change the folder permisson of craft/app, craft/config and craft/storage.
+> You might need to change the folder permisson of craft/app, craft/config and craft/storage.
 
----Pack includes---
+## Pack includes
 
 1) Basic folder structure
 2) Bootstrap
