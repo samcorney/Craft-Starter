@@ -8,7 +8,7 @@ Craft starter pack
 
 3) Fill in the correct MySQL credentials in craft/config/db.php.
 
-Note: YOu might need to change the folder permisson of craft/app, craft/config and craft/storage.
+Note: You might need to change the folder permisson of craft/app, craft/config and craft/storage.
 
 ---Pack includes---
 
