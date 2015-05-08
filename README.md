@@ -1,4 +1,4 @@
-# Craft starter pack
+# Craft CMS starter pack
 
 ## Extension of the Pixel and Tonic Happy Lager demo site. https://github.com/pixelandtonic/HappyLager
 
