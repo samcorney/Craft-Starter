@@ -1,5 +1,7 @@
 # Craft starter pack
 
+## Extension of the Pixel and Tonic Happy Lager demo site. https://github.com/pixelandtonic/HappyLager
+
 ## To get started
 
 1) Download the latest version of Craft from http://buildwithcraft.com, and copy its craft/app/ folder into the craft/ folder.
